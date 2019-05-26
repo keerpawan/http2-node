@@ -1,0 +1,13 @@
+{
+  "name": "http2-node",
+  "version": "1.0.0",
+  "description": "A node project to run http2 server",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "node server.js",
+    "start:client": "node client.js",
+    "test": "jest"
+  },
+  "author": "Pawan Keer",
+  "license": "ISC"
+}
