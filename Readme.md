@@ -1,4 +1,4 @@
-Simple application to demo push calls with http2
+Simple application to demo <b>PUSH</b> with http2 and node
 
 ## Step up
 
