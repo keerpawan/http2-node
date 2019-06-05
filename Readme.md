@@ -21,6 +21,8 @@ brew install openssl
 openssl req -x509 -newkey rsa:2048 -nodes -sha256 -subj '/CN=localhost' -keyout localhost-privkey.pem -out localhost-cert.pem
 ```
 
+Click on localhost-cert.pem and add it to your keychain
+
 ## Try it out
 
 Start the server and Goto: https://localhost:1234
