@@ -4,6 +4,7 @@
   "description": "A node project to run http2 server",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "start:server": "node server.js",
     "start:client": "node client.js",
     "test": "jest"
